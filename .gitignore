@@ -1,0 +1,7 @@
+*.class
+.*.swm
+.*.swn
+.*.swo
+.*.swp
+.*.un~
+*.*~
