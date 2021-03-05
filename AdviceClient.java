@@ -49,7 +49,6 @@ public class AdviceClient
 
     public static void main(String[] args)
     {
-        AdviceClient client = new AdviceClient();
-        client.requestAndPrintAdvice();
+        (new AdviceClient()).requestAndPrintAdvice();
     }
 }

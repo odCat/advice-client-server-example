@@ -26,7 +26,6 @@ public class AdviceServer
 
     public static void main(String[] args)
     {
-        AdviceServer adviceServer = new AdviceServer();
-        adviceServer.startServer();
+        (new AdviceServer()).startServer();
     }
 }
